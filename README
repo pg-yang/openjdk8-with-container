@@ -1,0 +1,8 @@
+openjdk8 包含一个编译，运行代码的 vscode vscode dev container
+需要本机安装并启动了docker
+使用方法: 
+1. 安装vscode插件 Remote Development
+2. 使用"remote-containers open folder in container"打开本目录
+3. 在remote-containers中安装lldb插件
+4. 运行任务"build openjdk8"
+5. 构建完成就可以运行、调试openjdk了
