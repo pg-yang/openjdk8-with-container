@@ -1,5 +1,5 @@
 {
-    "image": "ypg521/centos7-openjdk8-env",
+    "image": "yangpg9/centos7-openjdk8-env",
     "remoteEnv": {
         "JAVA_HOME": "/usr/lib/jvm/java-1.8.0-openjdk"
     },
